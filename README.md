@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Avtar Saini!
+🚀 Full Stack PHP Developer | 💻 Tech Enthusiast | 🌎 Open Source Contributor
 
-<!--
-**sainiavtar/sainiavtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack:
+- 🔹 PHP (Laravel, CodeIgniter)
+- 🔹 JavaScript (React, Vue.js)
+- 🔹 Databases: MySQL, PostgreSQL
+- 🔹 DevOps: Docker, AWS, Git
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** Docker, GraphQL  
+📫 **Reach me at:** [LinkedIn](your-link) | [Portfolio](your-website)  
